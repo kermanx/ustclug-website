@@ -1,6 +1,3 @@
----
----
-
 # LUG 负责人
 
 ## 公共联系方式
@@ -10,6 +7,23 @@
 > 无特殊情况时，请不要单独联系负责人。
 
 ## 主要负责人
+
+| 代号      | 职务                  | 姓名   | 邮箱                        |
+| :-------- | :-------------------- | :----- | :-------------------------- |
+| CEO       | 执行会长              | 王永福 | rtxux AT ustclug.org        |
+| -         | 执行副会长            | 王昊元 | mirageturtle AT ustclug.org |
+| -         | 执行副会长            | 马天开 | tiankaima AT ustclug.org    |
+| -         | 执行副会长            | 方越   | yuefang AT ustclug.org      |
+| CTO       | 技术部部长            | 王昊元 | mirageturtle AT ustclug.org |
+| -         | 技术部副部长          | 李培锋 |                             |
+| COO       | 运营部部长            | 马天开 | tiankaima AT ustclug.org    |
+| -         | 运营部副部长          | 熊桐睿 |                             |
+| -         | 团支书                | 方越  | yuefang AT ustclug.org       |
+| CFO       | 财务部部长            | 王永福 | rtxux AT ustclug.org        |
+
+## 历任负责人
+
+### 2024-2025 届
 
 | 代号      | 职务                  | 姓名   | 邮箱                        |
 | :-------- | :-------------------- | :----- | :-------------------------- |
@@ -23,8 +37,6 @@
 | -         | 副社长                | 王昊元 | mirageturtle AT ustclug.org |
 | -         | 副社长                | 杨广源 |                             |
 | -         | 副社长                | 马天开 | tiankaima AT ustclug.org    |
-
-## 历任负责人
 
 ### 2023-2024 届
 
